@@ -1,7 +1,7 @@
 - 👋 Hi, i am Nyarji Daniel Jada. 
 - 🌱 I’m currently learning python 
 - 💞️ I’m looking to collaborate and learn as much.
-- 📫 Reach me on twitter @ jadakoseD
+- 📫 Strike me on twitter @ jadakoseD
 
 <!---
 Jadashi97/Jadashi97 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
