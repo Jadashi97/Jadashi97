@@ -1,5 +1,5 @@
 - 👋 Hi, i am Nyarji Daniel Jada. 
-- 🌱 I’m currently learning python 
+- 🌱 I’m currently learning python, html and Css
 - 💞️ I’m looking to collaborate and learn as much.
 - 📫 Strike me on twitter @ jadakoseD
 
