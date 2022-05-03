@@ -1,4 +1,4 @@
 - 👋 Hi, i am Nyarji Daniel Jada. 
-- I’m proficient in FrontEnd(JS, HTMl, CSS) and BackEnd(Python, Node JS) stuff. 
+- I’m proficient in FrontEnd(JS, HTML, CSS) and BackEnd(Python, Node JS) stuff. 
 - I’m looking to collaborate in open source projects and learn as much.
 - 📫 Strike me on twitter @ jadakoseD & IG @ _jada_n
