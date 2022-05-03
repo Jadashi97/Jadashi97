@@ -1,9 +1,4 @@
 - 👋 Hi, i am Nyarji Daniel Jada. 
-- 🌱 I’m currently learning python, html and Css
-- 💞️ I’m looking to collaborate and learn as much.
-- 📫 Strike me on twitter @ jadakoseD
-
-<!---
-Jadashi97/Jadashi97 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- I’m proficient in FrontEnd(JS, HTMl, CSS) and BackEnd(Python, Node JS) stuff. 
+- I’m looking to collaborate in open source projects and learn as much.
+- 📫 Strike me on twitter @ jadakoseD & IG @ _jada_n
