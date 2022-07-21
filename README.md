@@ -5,9 +5,9 @@
     I am Nyarji Daniel Jada. 
     A full stack developer. Inclined more onto the FrontEnd
 
-    Pronoun  : He/Him.His
-    Nationality : South Sudanese
-    Location: Minneapolis MN
+    Pronoun  : He/Him/His
+    Nationality : South Sudanese 🇸🇸
+    Location: Minneapolis MN 📍
 
 # 2. MY WEB DEVEVELOPMENT STACK 🥞
     
@@ -18,8 +18,19 @@
         - Node.js, Python
 
     iii. Database
-        - MongoDB & Mongoose, 
+        - MongoDB (Mongoose), NoSQL 
 
+    iv. Shell Scripting
+        - A shell (Zsh), Powershell (msh), Bash
 
+    v. Operating Systems
+        - Linux 
+        - Windows
 
-- 📫 Strike me on twitter @ jadakoseD & IG @ _jada_n
+    Vi. Application Programming Interface
+         - Built a RESTful API from scratch
+
+# 3. STRIKE ME 🖇
+    
+    📫 twitter @ jadakoseD 
+    🤳🏾 IG @ _jada_n
