@@ -9,7 +9,7 @@
     Nationality : South Sudanese 🇸🇸
     Location: Minneapolis MN 📍
 
-# 2. MY WEB DEVEVELOPMENT STACK 🥞
+# 2. MY WEB DEV STACK 🥞
     
     i. FrontEnd Development:
         - HTML, CSS, JavaScipt, JQuery, MarkDown, Bootsrap, React 
@@ -27,10 +27,18 @@
         - Linux 
         - Windows
 
-    Vi. Application Programming Interface
+    vi. Application Programming Interface
          - Built a RESTful API from scratch
+    
+    v. UX/UI
+        - Adobe XD
 
 # 3. STRIKE ME 🖇
     
     📫 twitter @ jadakoseD 
     🤳🏾 IG @ _jada_n
+    
+    
+# 4. Future targets
+    - AI and Machine Learning
+    - Job Search
