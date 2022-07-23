@@ -21,7 +21,7 @@
         - MongoDB (Mongoose), NoSQL 
 
     iv. Shell Scripting
-        - A shell (Zsh), Powershell (msh), Bash
+        - Z shell (Zsh), Powershell (msh), Bash
 
     v. Operating Systems
         - Linux 
@@ -33,7 +33,7 @@
     v. UX/UI
         - Adobe XD
 
-# 3. STRIKE ME 🖇
+# 3. STRIKE ME 🎯
     
     📫 twitter @ jadakoseD 
     🤳🏾 IG @ _jada_n
@@ -41,4 +41,5 @@
     
 # 4. Future targets
     - AI and Machine Learning
-    - Job Search
+    - Devops
+    - job search
