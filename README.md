@@ -40,6 +40,11 @@
     
     
 # 4. Future targets
+    - APIs
     - AI and Machine Learning
     - Devops
     - job search
+    
+#   LANGUAGE
+        - English
+        - Arabic
