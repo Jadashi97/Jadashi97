@@ -1,5 +1,5 @@
 # Hi, 👋🏿✨
-[![Nyarji's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jadashi97)](https://github.com/Jadashi97/github-readme-stats&count_private=true&show_icons=true&theme=radical)
+[![Nyarji's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jadashi97)](https://github.com/Jadashi97/github-readme-stats&count_private=true&show_icons=true&theme=gruvbox)
 # 1. ABOUT ME 👨🏾‍💻
     I am Nyarji Daniel Jada. 
     A Proficient FrontEnd developer. Currently learning and dabblin into BackEnd stuff.
