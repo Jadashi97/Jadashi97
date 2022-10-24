@@ -1,7 +1,7 @@
 # Hi, 👋🏿✨
 # 1. ABOUT ME 👨🏾‍💻
     I am Nyarji Daniel Jada. 
-    A Proficient FrontEnd developer. Currently learning and dabbling into BackEnd stuff.
+    A Proficient Full Stack developer. Currently learning and dabbling in both FrontEnd and BackEnd stuff to add onto my skills.
     Down to Earth and trying to be the best possible version of myself. 
 
     Pronoun  : He/Him/His
@@ -11,7 +11,7 @@
 # 2. MY WEB DEV STACK 🥞
     
     i. FrontEnd Development:
-        - HTML, CSS, JavaScipt, JQuery, MarkDown, Bootsrap, React 
+        - HTML, CSS, JavaScipt, React, JQuery, Bootsrap, WordPress, Sanity
 
     ii. BackEnd Development:
         - Node.js, Python
@@ -22,22 +22,17 @@
     iv. Shell Scripting
         - Z shell (Zsh), Bash
 
-    v. Operating Systems
-        - Linux 
-        - Windows
-
-    vi. Application Programming Interface
-         - Built a RESTful API from scratch
-    
-    v. UX/UI
-        - Adobe XD
-    
+    v. Application Programming Interface
+         -RESTful API from scratch
+   
+    Vi. Design tools
+        - Figma, sketch, Adobe
 # 3. Future targets🎯
     - APIs
     - AI and Machine Learning
     - Devops
-    - job search
+    - Lightning Development
     
-#4  LANGUAGE
+#4  LANGUAGES
         - English
         - Arabic
