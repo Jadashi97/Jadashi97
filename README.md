@@ -31,7 +31,9 @@
     - APIs
     - AI and Machine Learning
     - Devops
+    - Blockchain Development
     - Lightning Development
+    - Augmented Reality
     
 #4  LANGUAGES
         - English
