@@ -3,6 +3,7 @@
     I am Nyarji Daniel Jada. 
     A Proficient Full Stack developer. Currently learning and dabbling in both FrontEnd and BackEnd stuff to add onto my skills.
     Down to Earth and trying to be the best possible version of myself. 
+    Looking to jump on a help on any open source porjects
 
     Pronoun  : He/Him/His
     Nationality : South Sudanese 🇸🇸
@@ -14,7 +15,7 @@
         - HTML, CSS, JavaScipt, React, JQuery, Bootsrap, WordPress, Sanity
 
     ii. BackEnd Development:
-        - Node.js, Python
+        - Node.js, Python, Express, 
 
     iii. Database
         - MongoDB (Mongoose), NoSQL 
@@ -27,6 +28,10 @@
    
     Vi. Design tools
         - Figma, sketch, Adobe
+        
+    Vii. Version Control
+        - Git, GitHub
+        
 # 3. Future targets🎯
     - APIs
     - AI and Machine Learning
