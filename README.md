@@ -1,7 +1,7 @@
 # Hi, 👋🏿✨
 # 1. ABOUT ME 👨🏾‍💻
     I am Nyarji Daniel Jada. 
-    A Proficient Full Stack developer. Currently learning and dabbling in both FrontEnd and BackEnd stuff to add onto my skills.
+    A Full Stack developer. Currently learning and dabbling in both FrontEnd and BackEnd stuff to add onto my skills.
     Down to Earth and trying to be the best possible version of myself. 
     Looking to jump on a help on any open source porjects
 
@@ -9,7 +9,7 @@
     Nationality : South Sudanese 🇸🇸
     Location: Minneapolis MN 📍
 [![Nyarji's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jadashi97)](https://github.com/Jadashi97/github-readme-stats&count_private=true&show_icons=true&theme=gruvbox)
-# 2. MY WEB DEV STACK 🥞
+# 2. MY DEVELOPER STACK 🥞
     
     i. FrontEnd Development:
         - HTML, CSS, JavaScipt, React, JQuery, Bootsrap, WordPress, Sanity
@@ -29,8 +29,14 @@
     Vi. Design tools
         - Figma, sketch, Adobe
         
-    Vii. Version Control
+    vii. Version Control
         - Git, GitHub
+    
+    vii. Testing Libraries
+        - Jest, React Testing Libraries
+        
+    ix. Mobile Development
+        -React Native, 
         
 # 3. Future targets🎯
     - APIs
