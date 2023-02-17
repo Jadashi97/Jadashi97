@@ -12,13 +12,13 @@
 # 2. MY DEVELOPER STACK 🥞
     
     i. FrontEnd Development:
-        - HTML, CSS, JavaScipt, React, JQuery, Bootsrap, WordPress, Sanity
+        - HTML, CSS, JavaScipt, React, JQuery, Bootsrap,Chakra, Material UI, WordPress, Sanity
 
     ii. BackEnd Development:
         - Node.js, Python, Express, 
 
     iii. Database
-        - MongoDB (Mongoose), NoSQL 
+        - MongoDB(Atlas), NoSQL, DynamoDB, 
 
     iv. Shell Scripting
         - Z shell (Zsh), Bash
@@ -36,7 +36,7 @@
         - Jest, React Testing Libraries
         
     ix. Mobile Development
-        -React Native, 
+        - React Native 
         
 # 3. Future targets🎯
     - APIs
