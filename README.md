@@ -12,8 +12,8 @@
 # 2. MY DEVELOPER STACK 🥞
     
     i. FrontEnd Development:
-        - HTML, CSS, JavaScipt, React, JQuery, Bootsrap,Chakra, Material UI, WordPress, Sanity
-
+        - HTML, CSS(Bootstrap, Chakra Material UI, TailWind), JavaScipt, React, JQuery, WordPress, Sanity
+        
     ii. BackEnd Development:
         - Node.js, Python, Express, 
 
@@ -45,6 +45,7 @@
     - Blockchain Development
     - Lightning Development
     - Augmented Reality
+    - Desktop Apps(Electron)
     
 #4  LANGUAGES
         - English
