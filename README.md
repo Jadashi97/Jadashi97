@@ -1,7 +1,7 @@
 # Hi, 👋🏿✨
 # 1. ABOUT ME 👨🏾‍💻
     I am Nyarji Daniel Jada. 
-    A Full Stack developer. Currently learning and dabbling in both FrontEnd and BackEnd stuff to add onto my skills.
+    A Full Stack developer. Although more inclined to the frontEnd, I am Currently learning and dabbling in both FrontEnd and BackEnd stuff to add onto my skills.
     Down to Earth and trying to be the best possible version of myself. 
     Looking to help and work any open source porjects
     Looking for anyone ready to hire. My daily commits speak to my perseverence and work ethic
